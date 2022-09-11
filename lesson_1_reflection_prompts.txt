@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped by saving time because you can easily see the differences between the 2 files, and you can look for typos easily if you accedentally made a typo on the newer version, but not on the old version.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It can help you find errors quickly and it will let you be able to go back to a version before if you mess up.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think that the pros are that you can easily see why you created the commit and you can see which commit you would want to go back to if you make an error. I think that the cons are that you might go too long without a commit or forget to create one, and lose your work.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think that some version control systems allow saving multiple files in one commit because it is easier to find the files that are matching. For example, if they aren't in the same commit, you might get one file from the newest version, but another from an older version, but you need both to be in the newest version for the thing to be able to work. On the other hand, I think that others save them seperately because if only one out of three files in a set is changed, and you save all three again, it is a waste of space. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+   git log is used to see the whole history of the file of where you used commits. git diff is used to compare two versions of a file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you know that you can go back to any commit at anytime, you can be confident in making a change that can break something. Even if your game breaks, it can be fixed easily by going back to the commit from before.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will use git for AP Computer Science A, but I think it will be very helpful outside of class as well for coding. With commits and the version control system of git, I think coding will be way more smoother.
