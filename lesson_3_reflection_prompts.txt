@@ -20,6 +20,8 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 	If you don't use Git or GitHub, you might collaborate with other people by sending them your foilder with your project, and sending it back and forth. Using Git and GitHub will be way easier, and using the way I typed will be harder.
 
-When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  
+What benefits does each approach have?
 
-    Fill in your answer here
+	You would want to make changes in a seperate branch rather than directly in master when you don't want to accedentally break the master branch. 
+	When you work in a seperate branch, you don't have to worry about breaking your project because you canged something worng. When you just work straight in master, you don't have to worry about the merging afterwards.
