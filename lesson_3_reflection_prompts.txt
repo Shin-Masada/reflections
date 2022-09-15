@@ -18,7 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+	If you don't use Git or GitHub, you might collaborate with other people by sending them your foilder with your project, and sending it back and forth. Using Git and GitHub will be way easier, and using the way I typed will be harder.
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
